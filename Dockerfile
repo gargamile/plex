@@ -1,5 +1,5 @@
 FROM ubuntu:trusty
-MAINTAINER Reuben Mannell "reuben@reubit.com"
+MAINTAINER Steve Chapman "stipppy@gmail.com"
 
 RUN apt-get update && apt-get install -yq wget curl
 
